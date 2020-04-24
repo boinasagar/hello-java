@@ -23,6 +23,7 @@ public class HelloWorld {
         System.out.println("Hello World, DevOps has arrived!");
 		System.out.println("Hello World, Good Commit");
 		System.out.println("Hello World, Bad Commit");
+		System.out.println("Hello World, Another Good Commit");
     }
 
 }
